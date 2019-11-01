@@ -1,2 +1,0 @@
-# ajaxLearning
-Created with CodeSandbox
